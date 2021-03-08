@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm AJ - aka [Kyrx][twitter]👋
 
-<!--
-**DevKyrx/devkyrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 🔨 Discord Python/Javascript Developer!
+- 🍇 I’m currently learning every language
+- ⚡ Fun Fact: I used to do gfx..
+```
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevKyrx&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages I Know](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKyrx&layout=compact&theme=dracula)
+
+
+[twitter]: https://discord.gg/k2452mKWDm
+[youtube]: https://youtube.com/Kyrox
+[node]: https://nodejs.org/en/
+[js]: https://www.javascript.com/
